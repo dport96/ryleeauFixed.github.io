@@ -7,6 +7,7 @@ date: 2023
 published: true
 labels:
   - C
+  - Game Development
 summary: "I developed a console Wordle game in my CompSci 210 Programming Fundamentals class at the United States Air Force Academy."
 ---
 
