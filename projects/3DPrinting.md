@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "3D Printing Program"
-date: 2015
+date: 2020
 published: true
 labels:
   - Educational Technology
