@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/wordle.png
 title: "Wordle"
 date: 2023
 published: true
