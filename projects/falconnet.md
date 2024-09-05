@@ -23,4 +23,4 @@ For this project, I was a programmer responsible for completing delegated tasks.
 
 Throughout this project, I learned peer programming, website development and maintenance, and contributive teamwork. Website management is constant and I am excited to continue this project throughout my remaining years before I graduate from the academy.
 
-You can learn more at the [Falconnet Shop.](https://shop.falconnet.us/).
+You can learn more at the [Falconnet Shop](https://shop.falconnet.us/).
