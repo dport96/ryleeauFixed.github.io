@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
@@ -44,23 +44,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Air Force",
+      "position": "Air Force Active Duty Student",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "United States Air Force Academy Cadet",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Attend the Academy, excelling in academics, athletics, and military tasks",
+        "Squadron Teal Rope: assist survivors of sexual assault and direct them to resources"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "NexTech Hawaii",
+      "position": "3D Printer Program Creator and Student Mentor",
+      "website": "https://www.nextechhawaii.org/3d-printing",
+      "startDate": "2019-03-01",
+      "endDate": "2022-06-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
