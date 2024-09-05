@@ -9,6 +9,7 @@ labels:
   - Javascript
   - Website Development
   - Website Management
+  - Teamwork
 summary: "My team developed a website for 4,000+ cadets at the Air Force Academy to buy and sell items within the institution."
 ---
 
@@ -16,24 +17,10 @@ summary: "My team developed a website for 4,000+ cadets at the Air Force Academy
   <img width="300px" src="../img/falconnet.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The Falconnet Shop is a buying and selling website for the 4,000+ cadets at the United States Air Force Academy. Cadets can create an account, post items to sell with a picture, view their own listings, delete their own listings, and view all listings. In addition, all of the listings can be filtered with a search bar or category filter. Cadets are also able to provide feedback back to the team for further development.
 
-shop.falconnet.us
+For this project, I was a programmer responsible for completing delegated tasks. My team often practiced peer programming for maximum efficiency during our meetings twice a week. Some of my contributions to the website include the category filter, validations for topics in making a post, and visual graphics. The validations include making sure that the price and quantities are a number and displaying an error message otherwise.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Throughout this project, I learned peer programming, website development and maintenance, and contributive teamwork. Website management is constant and I am excited to continue this project throughout my remaining years before I graduate from the institution.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at the [Falconnet Shop.](https://shop.falconnet.us/).
