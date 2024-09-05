@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Javascript" ]
+      "keywords": [ "C", "Javascript","3D Printing"]
     },
     {
       "name": "Toolsets/OS",
@@ -33,7 +33,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "United States Air Force Academy, Colorado Springs, CO",
       "area": "Data Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-06-01",
@@ -63,50 +63,64 @@
       "endDate": "2022-06-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Creator, coordinator, and mentor of the NexTech Hawaii 3D Printer Program over more than 100 hours",
+        "3D Printed more than 300 personal protection equipment for first responders",
+        "STEM Camp student mentor and zoom manager over 65 hours"
+      ]
+    },
+    {
+      "company": "Kinoo",
+      "position": "Application Tester",
+      "website": "https://apps.apple.com/us/app/kinoo/id1540378636",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-01",
+      "summary": "",
+      "highlights": [
+        "Performed exploratory testing to identify and report defects"
+      ]
+    },
+    {
+      "company": "Hawaii Department of Education",
+      "position": "Student Helper",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-07-01",
+      "summary": "",
+      "highlights": [
+        "Collaborated with faculty members to develop innovative strategies for teaching work skills to special education students"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "TESSA",
+      "website": "https://www.tessacs.org/",
+      "position": "Volunteer",
+      "startDate": "2023-02-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "TESSA supports victims of abuse through immediate safehouse measures, counseling and therapy, and outreach",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Clean up, file, and organize the TESSA building to support workers who support victims of absue"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First Place 'Best Engineering Notebook'",
+      "date": "2020",
+      "awarder": "NexTech Hawaii",
+      "summary": "I entered the NexTech Hawaii Fish Tank design competition. I won the best engineering notebook and my team won 3rd place design"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Peter Chi Memorial Award",
+      "date": "2022",
+      "awarder": "Waiakea High School",
+      "summary": "I received this award through my Swimming and Diving high school team from having the highest GPA"
+    },
+    {
+      "title": "NCWIT Aspirations in Computing Affiliate Honorable Award",
+      "date": "2022",
+      "awarder": "NCWIT",
+      "summary": "I submitted my NexTech Hawaii 3D Printing Program initiative and earned this award"
     }
   ],
   "references": [
