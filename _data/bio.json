@@ -6,8 +6,8 @@
     "email": "ryleeau@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://ryleeau.github.io",
-    "summary": "I am studying for a B.S. in Data Science at the United States Air Force Academy. I am currently on a Fall 2024 Semester Exchange at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Data Science at the United States Air Force Academy. I am currently on a Fall 2024 Semester Exchange at the University of Hawaii at Manoa. I expect to graduate in Spring 2026.",
+    "location": { "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ryleeau", "url": "http://github.com/ryleeau" },
       { "network": "linkedin", "username": "rylee-au808", "url": "http://linkedin.com/in/rylee-au808" },
@@ -24,22 +24,21 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Javascript","3D Printing"]
+      "keywords": [ "C", "JavaScript", "3D Printing" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "United States Air Force Academy, Colorado Springs, CO",
-      "area": "Data Science (expected Spring, 2026)",
+      "area": "Data Science (expected Spring 2026)",
       "studyType": "B.S.",
       "startDate": "2022-06-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -64,8 +63,8 @@
       "summary": "",
       "highlights": [
         "Creator, coordinator, and mentor of the NexTech Hawaii 3D Printer Program over more than 100 hours",
-        "3D Printed more than 300 personal protection equipment for first responders",
-        "STEM Camp student mentor and zoom manager over 65 hours"
+        "3D Printed more than 300 pieces of personal protective equipment for first responders",
+        "STEM Camp student mentor and Zoom manager for over 65 hours"
       ]
     },
     {
@@ -100,7 +99,7 @@
       "endDate": "Present",
       "summary": "TESSA supports victims of abuse through immediate safehouse measures, counseling and therapy, and outreach",
       "highlights": [
-        "Clean up, file, and organize the TESSA building to support workers who support victims of abuse"
+        "Cleaned up, filed, and organized the TESSA building to support workers who assist victims of abuse"
       ]
     }
   ],
@@ -115,7 +114,7 @@
       "title": "Peter Chi Memorial Award",
       "date": "2022",
       "awarder": "Waiakea High School",
-      "summary": "I received this award through my Swimming and Diving high school team from having the highest GPA"
+      "summary": "I received this award through my Swimming and Diving high school team for having the highest GPA"
     },
     {
       "title": "NCWIT Aspirations in Computing Affiliate Honorable Award",
