@@ -21,6 +21,6 @@ The Falconnet Shop is a buying and selling website for the 4,000+ cadets at the 
 
 For this project, I was a programmer responsible for completing delegated tasks. My team often practiced peer programming for maximum efficiency during our meetings twice a week. Some of my contributions to the website include the category filter, validations for topics in making a post, and visual graphics. The validations include making sure that the price and quantities are a number and displaying an error message otherwise.
 
-Throughout this project, I learned peer programming, website development and maintenance, and contributive teamwork. Website management is constant and I am excited to continue this project throughout my remaining years before I graduate from the institution.
+Throughout this project, I learned peer programming, website development and maintenance, and contributive teamwork. Website management is constant and I am excited to continue this project throughout my remaining years before I graduate from the academy.
 
 You can learn more at the [Falconnet Shop.](https://shop.falconnet.us/).
