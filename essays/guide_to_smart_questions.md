@@ -20,6 +20,6 @@ An example of a ‘not smart’ question is the StackOverflow post that displays
 
 An example of a ‘smart’ question is the StackOverflow post asking “Why is processing a sorted array faster than processing an unsorted array?” The post displays attached code of both C++ and Java methods of processing both sorted and unsorted arrays with runtime as evidence. This post is clearly informed with two provided runs, readable commentary, correct grammar, a chronological process of thought, precision and being concise, and clearly asking why the results happened in both instances.
 
-Link to Eric Steven Raymond’s essay: http://www.catb.org/esr/faqs/smart-questions.html
-Link to the ‘not smart’ question: https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
-Link to the ‘smart’ question: https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
+Link to [Eric Steven Raymond’s essay](http://www.catb.org/esr/faqs/smart-questions.html).
+Link to the [‘not smart’ question](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch).
+Link to the [‘smart’ question]{https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
