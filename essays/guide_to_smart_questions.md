@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/dumb-questions.png">
 
 Smart questions, more often than not, lead to smart answers. When thoughtfully articulated questions display informed understanding of the identified issue, a smart software engineer can help others help them. In order to receive an effective and efficient answer, a person in need of help must be able to ask a smart question.
 
