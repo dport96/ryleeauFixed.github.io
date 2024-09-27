@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/ryleeau.png",
     "email": "ryleeau@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://ryleeau.github.io",
     "summary": "I am studying for a B.S. in Data Science at the United States Air Force Academy. I am currently on a Fall 2024 Semester Exchange at the University of Hawaii at Manoa. I expect to graduate in Spring 2026.",
     "location": { "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
